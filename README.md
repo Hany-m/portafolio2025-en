@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# portafolio2025-en
-=======
 
 # Personal Portfolio
 
@@ -8,7 +5,7 @@
 
 ## 🚀 Demo
 
- View the portfolio online()
+ -View the portfolio online [https://hany-m.github.io/portafolio2025-en]
 
 ## 📂 Structure
 
@@ -30,4 +27,5 @@
  -Responsive design (mobile and desktop)
 
 ## 📸 Preview
->>>>>>> 30d43fb (First commit portfolio)
+
+![alt text](./assets/Captura%20de%20pantalla%202025-08-27%20160920.png)
